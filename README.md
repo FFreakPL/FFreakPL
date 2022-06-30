@@ -24,6 +24,7 @@ src="https://img.shields.io/github/followers/FFreakPL?logo=github&style=for-the-
 <a href="https://babeljs.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/babel-colored.svg" width="36" height="36" alt="Babel" /></a>
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
 <a href="https://https://gulpjs.com/"><img src="https://user-images.githubusercontent.com/94534923/176645664-b3481ee8-89d0-4255-8f16-4746d2ac0ae0.png" width="36" height="36" alt="Gulp"
+<a href="https://https://nodejs.com/"><img src="https://user-images.githubusercontent.com/94534923/176645684-c1056e51-7663-44f5-85e8-48670a09b7bb.jpg" width="36" height="36" alt="Nodejs"
 </p>
 
 ### Badges
