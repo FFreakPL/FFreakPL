@@ -30,7 +30,7 @@ src="https://img.shields.io/github/followers/FFreakPL?logo=github&style=for-the-
 <a href="https://www.adobe.com/"><img src="https://user-images.githubusercontent.com/94534923/176645690-3f8830cd-4a82-4215-9173-0fa96efae77c.png" width="36" height="36" alt="Photoshop"/></a>
 <a href="https://www.adobe.com/"><img src="https://user-images.githubusercontent.com/94534923/176645682-72299e2c-6f9c-4ae9-96cc-3ffd0cefed80.png" width="36" height="36" alt="Lightroom"/></a>
 <a href="https://www.adobe.com/"><img src="https://user-images.githubusercontent.com/94534923/176645705-b0497d14-a8d8-476b-af20-7a11f6327d13.png" width="36" height="36" alt="Spark"/></a>
-<a href="https://www.reasonstudios.com/"><img src="https://user-images.githubusercontent.com/94534923/176645698-7f81bd5f-d526-4de1-aab8-f19083b47b3d.png" width="36" height="36" alt="Spark"/></a>
+<a href="https://www.reasonstudios.com/"><img src="https://user-images.githubusercontent.com/94534923/176648597-0f863fd5-6411-4e50-ace3-8a1fc45e8210.jpeg" width="36" height="36" alt="Spark"/></a>
 </p>
 
 ### Badges
