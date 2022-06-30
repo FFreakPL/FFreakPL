@@ -22,9 +22,15 @@ src="https://img.shields.io/github/followers/FFreakPL?logo=github&style=for-the-
 <a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg" width="36" height="36" alt="Webpack" /></a>
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
 <a href="https://babeljs.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/babel-colored.svg" width="36" height="36" alt="Babel" /></a>
+<a href="https://webpack.js.org/"><img src="https://user-images.githubusercontent.com/94534923/176645709-8dc82357-d422-4ac7-8614-3bb005e4b705.png" width="36" height="36" alt="Spark"/></a>
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
-<a href="https://https://gulpjs.com/"><img src="https://user-images.githubusercontent.com/94534923/176645664-b3481ee8-89d0-4255-8f16-4746d2ac0ae0.png" width="36" height="36" alt="Gulp"
-<a href="https://https://nodejs.com/"><img src="https://user-images.githubusercontent.com/94534923/176645684-c1056e51-7663-44f5-85e8-48670a09b7bb.jpg" width="36" height="36" alt="Nodejs"
+<a href="https://gulpjs.com/"><img src="https://user-images.githubusercontent.com/94534923/176645664-b3481ee8-89d0-4255-8f16-4746d2ac0ae0.png" width="36" height="36" alt="Gulp"/></a>
+<a href="https://nodejs.com/"><img src="https://user-images.githubusercontent.com/94534923/176645684-c1056e51-7663-44f5-85e8-48670a09b7bb.jpg" width="36" height="36" alt="Nodejs"/></a>
+<a href="https://npm.com/"><img src="https://user-images.githubusercontent.com/94534923/176645687-31a3a6fe-c094-4bac-bdde-9a1d8a9372a7.png" width="36" height="36" alt="Npm"/></a>
+<a href="https://www.adobe.com/"><img src="https://user-images.githubusercontent.com/94534923/176645690-3f8830cd-4a82-4215-9173-0fa96efae77c.png" width="36" height="36" alt="Photoshop"/></a>
+<a href="https://www.adobe.com/"><img src="https://user-images.githubusercontent.com/94534923/176645682-72299e2c-6f9c-4ae9-96cc-3ffd0cefed80.png" width="36" height="36" alt="Lightroom"/></a>
+<a href="https://www.adobe.com/"><img src="https://user-images.githubusercontent.com/94534923/176645705-b0497d14-a8d8-476b-af20-7a11f6327d13.png" width="36" height="36" alt="Spark"/></a>
+<a href="https://www.reasonstudios.com/"><img src="https://user-images.githubusercontent.com/94534923/176645698-7f81bd5f-d526-4de1-aab8-f19083b47b3d.png" width="36" height="36" alt="Spark"/></a>
 </p>
 
 ### Badges
