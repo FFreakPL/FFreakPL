@@ -23,6 +23,22 @@ src="https://img.shields.io/github/followers/FFreakPL?logo=github&style=for-the-
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
 <a href="https://babeljs.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/babel-colored.svg" width="36" height="36" alt="Babel" /></a>
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
+![css3](https://user-images.githubusercontent.com/94534923/176645660-2750faf8-fb0c-47d0-91c6-cdf38960f87f.png)
+![gulpjs](https://user-images.githubusercontent.com/94534923/176645664-b3481ee8-89d0-4255-8f16-4746d2ac0ae0.png)
+![html5](https://user-images.githubusercontent.com/94534923/176645666-7c1a337b-fc96-4531-8f7a-e6c552b3a67f.png)
+![html6](https://user-images.githubusercontent.com/94534923/176645671-fba798be-5d05-43a8-ae1b-229e97ad3675.jpeg)
+![js](https://user-images.githubusercontent.com/94534923/176645677-a5b45439-4505-4532-afcb-c551ec548326.png)
+![lightroom](https://user-images.githubusercontent.com/94534923/176645682-72299e2c-6f9c-4ae9-96cc-3ffd0cefed80.png)
+![nodejs](https://user-images.githubusercontent.com/94534923/176645684-c1056e51-7663-44f5-85e8-48670a09b7bb.jpg)
+![npm](https://user-images.githubusercontent.com/94534923/176645687-31a3a6fe-c094-4bac-bdde-9a1d8a9372a7.png)
+![photoshop](https://user-images.githubusercontent.com/94534923/176645690-3f8830cd-4a82-4215-9173-0fa96efae77c.png)
+![react](https://user-images.githubusercontent.com/94534923/176645693-018713e9-9129-47d2-b083-f295257a6a48.jpg)
+![reason](https://user-images.githubusercontent.com/94534923/176645698-7f81bd5f-d526-4de1-aab8-f19083b47b3d.png)
+![sass](https://user-images.githubusercontent.com/94534923/176645701-113b8b73-ca5a-45dd-b58d-dcd10140d0d7.png)
+![spark](https://user-images.githubusercontent.com/94534923/176645705-b0497d14-a8d8-476b-af20-7a11f6327d13.png)
+![strava](https://user-images.githubusercontent.com/94534923/176645708-b00e5d8f-cd56-4456-8f68-9ad0c4e39fe4.png)
+![webpack](https://user-images.githubusercontent.com/94534923/176645709-8dc82357-d422-4ac7-8614-3bb005e4b705.png)
+
 </p>
 
 ### Badges
