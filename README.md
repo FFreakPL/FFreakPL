@@ -4,7 +4,7 @@ Hi 👋 My name is Paweł
 Junior Front-End Developer
 --------------------------
 
-I started my journey with programming in December 2021 and strated learning JS/React on BootCamp in CodersLab school. I quickly found out that this is the thing I want to do in my life:) Not only because it is very satisfying but also because it allows me to constantly improve myself and prevent me from beeing bored:) I found out that programmig means learning all the time and I can surely say that I like it. I am a person who never gives up:) I try to achieve perfection in everything I do and when I struggle with something - I work even harder:) I'm also an ambitious person with a great willingness to learn and develop. I am looking for my first commercial experience as a frontend developer.
+I started my journey with programming in 2021 with learning JS/React on BootCamp in CodersLab school. I quickly found out that this is the thing I want to do in my life:) Not only because it is very satisfying but also because it allows me to constantly improve myself and prevent me from beeing bored:) I found out that programmig means learning all the time and I can surely say that I like it. I am a person who never gives up:) I try to achieve perfection in everything I do and when I struggle with something - I work even harder:) I'm also an ambitious person with a great willingness to learn and develop. I am looking for my first commercial experience as a frontend developer.
 
 * ✉️  You can contact me at [ffreak.pl\_gmail.com](mailto:ffreak.pl@gmail.com)
 * 🧠  I'm learning React and much more...
